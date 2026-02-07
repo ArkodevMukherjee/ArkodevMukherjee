@@ -95,11 +95,21 @@ me.say_hi()
 
 <div align="center">
 
+### 📈 Overall Stats & Streak
+
 ![](https://github-readme-stats.vercel.app/api?username=ArkodevMukherjee&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ArkodevMukherjee&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArkodevMukherjee&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+### 💬 Most Used Languages
+
+**By Repository**
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArkodevMukherjee&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
+
+**By Commit Activity**
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArkodevMukherjee&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&count_private=true&include_all_commits=true)
 
 </div>
 
@@ -135,11 +145,36 @@ me.say_hi()
 
 ---
 
-## 💡 Random Dev Quote
+## 💡 Dev Wisdom
 
 <div align="center">
 
+<!-- Main rotating quote -->
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+### 📜 More Inspirational Quotes
+
+<div align="center">
+
+> "Code is like humor. When you have to explain it, it's bad." – Cory House
+
+> "First, solve the problem. Then, write the code." – John Johnson
+
+> "Experience is the name everyone gives to their mistakes." – Oscar Wilde
+
+> "In order to be irreplaceable, one must always be different." – Coco Chanel
+
+> "Java is to JavaScript what car is to Carpet." – Chris Heilmann
+
+> "Knowledge is power." – Francis Bacon
+
+> "Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code." – Dan Salomon
+
+> "Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away." – Antoine de Saint-Exupery
+
+> "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." – Martin Fowler
 
 </div>
 
