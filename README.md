@@ -100,12 +100,16 @@ me.say_hi()
 
 
 ### Most Used Languages
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArkodevMukherjee&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ArkodevMukherjee&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img width="48%" src="https://streak-stats.demolab.com?user=ArkodevMukherjee&theme=tokyonight&hide_border=true" />
 
 </div>
+
 
 
 
