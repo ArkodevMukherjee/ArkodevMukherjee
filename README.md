@@ -35,9 +35,6 @@ me.say_hi()
 
 - 🔭 Currently working on **AI-powered applications**
 - 🌱 Learning **Advanced Machine Learning & Cloud Architecture**
-- 💡 Passionate about **Open Source** and **Innovation**
-- 🎯 2024 Goals: Contribute to major open-source projects
-- ⚡ Fun fact: I debug with coffee ☕ and curiosity 🔍
 
 ---
 
