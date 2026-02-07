@@ -94,11 +94,12 @@ me.say_hi()
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ArkodevMukherjee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ArkodevMukherjee&theme=tokyonight&hide_border=true" />
 
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArkodevMukherjee&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+![](https://github-readme-stats.vercel.app/api?username=ArkodevMukherjee&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=ArkodevMukherjee&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArkodevMukherjee&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
@@ -118,7 +119,7 @@ me.say_hi()
 
 <div align="center">
 
-[![Arkodev's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ArkodevMukherjee&theme=tokyo-night&hide_border=true)](https://github.com/ArkodevMukherjee)
+![](https://github-readme-activity-graph.vercel.app/graph?username=ArkodevMukherjee&theme=tokyo-night&hide_border=true)
 
 </div>
 
@@ -171,4 +172,4 @@ I'm always excited to collaborate on innovative projects and discuss new ideas!
 
 **Made with ❤️ by Arkodev Mukherjee**
 
-</div
+</div>
