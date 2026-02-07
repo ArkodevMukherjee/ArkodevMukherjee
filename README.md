@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arkodev Mukherjee</h1>
 <h3 align="center">A passionate Full-Stack & AI developer from India 🇮🇳</h3>
+<b>Total Views ![Profile Views](https://komarev.com/ghpvc/?username=ArkodevMukherjee)</b>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FFAF&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;AI%2FML+Engineer;Open+Source+Contributor;Love+Building+Cool+Stuff!" alt="Typing SVG" />
