@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Arkodev Mukherjee</h1>
-<h3 align="center">A passionate Full-Stack & AI developer from India 🇮🇳</h3>
-<b>Total Views ![Profile Views](https://komarev.com/ghpvc/?username=ArkodevMukherjee)</b>
+<h3 align="center">A passionate Full-Stack & AI Developer from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FFAF&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;AI%2FML+Engineer;Open+Source+Contributor;Love+Building+Cool+Stuff!" alt="Typing SVG" />
+  <img src="https://komarev.com/ghpvc/?username=ArkodevMukherjee&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;AI%2FML+Engineer;Open+Source+Contributor;Love+Building+Cool+Stuff!" alt="Typing SVG" />
 </p>
 
 ---
@@ -25,7 +28,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/ArkodevMukherjee">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -74,23 +77,25 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArkodevMukherjee&theme=shadow_green&show_icons=true&hide_border=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ArkodevMukherjee&show_icons=true&theme=tokyonight&hide_border=true" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArkodevMukherjee&layout=compact&theme=shadow_green" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArkodevMukherjee&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ArkodevMukherjee&theme=shadow_green&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ArkodevMukherjee&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🐍 Contribution Graph (Animated)
+## 🐍 Contribution Graph
 
 ![Snake gif](https://github.com/ArkodevMukherjee/ArkodevMukherjee/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-## 🧭 Visitor Count
+## 🧭 Visitor Counter
 
-[![](https://visitcount.itsvg.in/api?id=ArkodevMukherjee&label=Visitors&icon=0&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ArkodevMukherjee&label=Visitors&icon=5&color=6fa4fc)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+⭐️ From [ArkodevMukherjee](https://github.com/ArkodevMukherjee)
