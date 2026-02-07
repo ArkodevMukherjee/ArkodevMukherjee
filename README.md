@@ -98,17 +98,16 @@ me.say_hi()
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ArkodevMukherjee&theme=tokyonight&hide_border=true)
 
-### 💬 Most Used Languages
 
-**By Repository**
+### Most Used Languages
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArkodevMukherjee&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
+<div align="center">
 
-**By Commit Activity**
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArkodevMukherjee&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&count_private=true&include_all_commits=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArkodevMukherjee&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
+
+
 
 ---
 
